@@ -13,9 +13,18 @@ https://github.com/user-attachments/assets/64189d2f-54ee-4ebe-b577-f353cddd6010
 ### Figma Design
 View the initial design for the app <a href="https://www.figma.com/file/aigz5eKfst2tO5XRpavMZy/Countdown-(Website)-Prototype?node-id=0%3A1&t=li6SkCdHOcLksrBp-1">here</a>.
 
+#### Live Screenshots
+> *Login*
+> ![login](https://github.com/user-attachments/assets/05c3edf0-21e6-4a03-bbf7-20340fc2cf93)
+
+> *Entries*
+> ![entries](https://github.com/user-attachments/assets/20eb83fc-a5c9-452a-8e7c-79b961a2a55e)
+
+> *Edit*
+> ![edit](https://github.com/user-attachments/assets/350ad576-9edc-495e-8d07-5b4d6566f27c)
+
 ### Contributors
 + UI/UX, Frontend: Justina Wong
-+ Frontend Consultant: Jennifer Wong
 + Backend: Robin Cristobal
 
 ## Reflection
