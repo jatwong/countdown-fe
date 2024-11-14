@@ -7,6 +7,9 @@ Users are able to register, login, reset passwords and add, edit, view, and dele
 + Frontend: JavaScript, React, HTML, CSS (done by me, this repository)
 + Backend: Golang, MySQL, Docker (not done by me)
 
+### Video Demo
+https://github.com/user-attachments/assets/64189d2f-54ee-4ebe-b577-f353cddd6010
+
 ### Figma Design
 View the initial design for the app <a href="https://www.figma.com/file/aigz5eKfst2tO5XRpavMZy/Countdown-(Website)-Prototype?node-id=0%3A1&t=li6SkCdHOcLksrBp-1">here</a>.
 
